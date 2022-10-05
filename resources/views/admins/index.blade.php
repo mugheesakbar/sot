@@ -34,7 +34,7 @@
       <a href="{{url('instructors')}}" class="mr-5 hover:text-gray-900">Instructors</a>
     </nav>
     <div>
-      Admin Panel
+      Admin Panel  has changed
     </div>
     <div><a href="{{url('login')}}">Logout</a></div>
       
